@@ -45,5 +45,5 @@ Cool日历是一个基于 **Flutter** 框架开发的现代化日程管理应用
 ### 1. 克隆仓库
 
 ```bash
-git clone [此处替换为你的GitHub仓库链接]
+git clone [https://github.com/ahia11/cool_calendar.git]
 cd cool_calendar
